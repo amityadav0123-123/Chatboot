@@ -102,9 +102,13 @@ Conversation continues with full context
 ### 🎨 UI Highlights
 
 ✔ Animated messages
+
 ✔ Gradient background
+
 ✔ Glass-morphism chat card
+
 ✔ Responsive layout
+
 ✔ Modern typography
 
 ### ⚠️ Notes
