@@ -44,7 +44,9 @@ Session State	History & state management
 
 ### 📁 Project Structure
 ├── app.py
+
 ├── README.md
+
 └── requirements.txt
 
 ### 📦 Installation Guide
