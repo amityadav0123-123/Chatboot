@@ -3,7 +3,7 @@
 This project is a beautifully designed AI ChatBot web application built using Streamlit and Google Gemini (gemini-pro model).
 It provides a smooth chat experience with animations, gradient UI, and real-time conversation history.
 
-## 🚀 Features
+## 🚀 Features -
 ✅ 1. Intelligent Chatbot (Gemini Pro)
 
 Uses Google Generative AI to generate human-like responses.
